@@ -1,0 +1,59 @@
+/*TITULO*/
+.logoLiga {
+    display: block;
+    margin: 0 auto; /* centra la imagen */
+    width: 130px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 30px;
+    height: auto;
+}
+
+body {
+    background: #0f172a;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: 2px solid #222;
+}
+
+th {
+    background-color: #0f172a;
+    color: red;
+    padding: 12px;
+    font-size: 16px;
+    border-left: 5px solid #0f172a;
+}
+
+/* Celdas */
+td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    background-color: red;
+    color: #0f172a;
+}
+
+.principio th{
+    border: 2px solid red;
+}
+
+.champions td:first-child {
+    border-left: 2px solid #1e88e5;
+}
+.europa td:first-child{
+    border-left: 2px solid orange;
+}
+
+.conference td:first-child{
+    border-left: 2px solid green;
+}
+
+.descenso td:first-child{
+    border-left: 2px solid rgb(146, 2, 2);
+}

@@ -1,0 +1,21 @@
+﻿id_equipo;nombre_equipo;escudo_url
+1;Athletic Club;../pictures/athletic_club.png
+2;Atlético de Madrid;../pictures/atletico_de_madrid.png
+3;CA Osasuna;../pictures/ca_osasuna.png
+4;Celta de Vigo;../pictures/celta_de_vigo.png
+5;Deportivo Alavés;../pictures/deportivo_alaves.png
+6;Elche CF;../pictures/elche_cf.png
+7;FC Barcelona;../pictures/fc_barcelona.png
+8;Getafe CF;../pictures/getafe_cf.png
+9;Girona FC;../pictures/girona_fc.png
+10;Levante UD;../pictures/levante_ud.png
+11;Rayo Vallecano;../pictures/rayo_vallecano.png
+12;RCD Espanyol;../pictures/rcd_espanyol.png
+13;RCD Mallorca;../pictures/rcd_mallorca.png
+14;Real Betis;../pictures/real_betis.png
+15;Real Madrid;../pictures/real_madrid.png
+16;Real Oviedo;../pictures/real_oviedo.png
+17;Real Sociedad;../pictures/real_sociedad.png
+18;Sevilla FC;../pictures/sevilla_fc.png
+19;Valencia CF;../pictures/valencia_cf.png
+20;Villarreal CF;../pictures/villarreal_cf.png
